@@ -1,0 +1,4 @@
+#!/bin/bash
+
+SN=$1
+sfdx force:org:open -u $SN

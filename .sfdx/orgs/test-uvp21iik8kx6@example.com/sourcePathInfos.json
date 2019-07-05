@@ -1,0 +1,2072 @@
+[
+    [
+        "/var/projects/demo/force-app",
+        {
+            "sourcePath": "/var/projects/demo/force-app",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559764996002,
+            "changeTime": 1559764996002,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559764996002,
+            "changeTime": 1559764996002,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237296,
+            "changeTime": 1559767237296,
+            "contentHash": "4dcbb8b56cd6f6b9532e787ecab07d771be99d95",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/aura",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559764996002,
+            "changeTime": 1559764996002,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237276,
+            "changeTime": 1559767237276,
+            "contentHash": "2476af85f744ffc99a30827c977a7bb3d41feb8d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/ChangePasswordController.cls",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/ChangePasswordController.cls",
+            "isDirectory": false,
+            "size": 467,
+            "modifiedTime": 1559767237268,
+            "changeTime": 1559767237268,
+            "contentHash": "769eaed52f3c934b7ad9b57adcb55a922c257168",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/ChangePasswordController.cls-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/ChangePasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559767237268,
+            "changeTime": 1559767237268,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/ChangePasswordControllerTest.cls",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/ChangePasswordControllerTest.cls",
+            "isDirectory": false,
+            "size": 642,
+            "modifiedTime": 1559767237268,
+            "changeTime": 1559767237268,
+            "contentHash": "0bb3c4ec096aa5dd33d79abbb693eb98b3e899a0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/ChangePasswordControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/ChangePasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559767237268,
+            "changeTime": 1559767237268,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/ForgotPasswordController.cls",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/ForgotPasswordController.cls",
+            "isDirectory": false,
+            "size": 480,
+            "modifiedTime": 1559767237272,
+            "changeTime": 1559767237272,
+            "contentHash": "f90081d88c1b56f4db006bf0c9022a1b23126145",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/ForgotPasswordController.cls-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/ForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559767237268,
+            "changeTime": 1559767237268,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/ForgotPasswordControllerTest.cls",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/ForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "size": 506,
+            "modifiedTime": 1559767237268,
+            "changeTime": 1559767237268,
+            "contentHash": "66dcdb35e263e3858438516c272143f39594ab6b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/ForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/ForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559767237268,
+            "changeTime": 1559767237268,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/MyProfilePageController.cls",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/MyProfilePageController.cls",
+            "isDirectory": false,
+            "size": 1584,
+            "modifiedTime": 1559767237264,
+            "changeTime": 1559767237264,
+            "contentHash": "2e72ea98db541366419984e2a8878f467de5a3e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/MyProfilePageController.cls-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/MyProfilePageController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559767237264,
+            "changeTime": 1559767237264,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/MyProfilePageControllerTest.cls",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/MyProfilePageControllerTest.cls",
+            "isDirectory": false,
+            "size": 2792,
+            "modifiedTime": 1559767237264,
+            "changeTime": 1559767237264,
+            "contentHash": "3dad7650b8dd8e6e57710fec687bf1bb5eff80bd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/MyProfilePageControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/MyProfilePageControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559767237264,
+            "changeTime": 1559767237264,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/SiteLoginController.cls",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/SiteLoginController.cls",
+            "isDirectory": false,
+            "size": 434,
+            "modifiedTime": 1559767237272,
+            "changeTime": 1559767237272,
+            "contentHash": "45bce0841ca7e53e9891170118879727980b051a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/SiteLoginController.cls-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/SiteLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559767237272,
+            "changeTime": 1559767237272,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/SiteLoginControllerTest.cls",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/SiteLoginControllerTest.cls",
+            "isDirectory": false,
+            "size": 558,
+            "modifiedTime": 1559767237272,
+            "changeTime": 1559767237272,
+            "contentHash": "676ee62c09240e726b685da56266e2201bf46664",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/SiteLoginControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/SiteLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559767237272,
+            "changeTime": 1559767237272,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/SiteRegisterController.cls",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/SiteRegisterController.cls",
+            "isDirectory": false,
+            "size": 2077,
+            "modifiedTime": 1559767237276,
+            "changeTime": 1559767237276,
+            "contentHash": "19e473741cd0e4047e59345c952d815aa05e1ac2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/SiteRegisterController.cls-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/SiteRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559767237276,
+            "changeTime": 1559767237276,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/SiteRegisterControllerTest.cls",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/SiteRegisterControllerTest.cls",
+            "isDirectory": false,
+            "size": 721,
+            "modifiedTime": 1559767237272,
+            "changeTime": 1559767237272,
+            "contentHash": "00a06a0620a60d0ee0118431a169b4ec3ba79891",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/classes/SiteRegisterControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/classes/SiteRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559767237272,
+            "changeTime": 1559767237272,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/components",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/components",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237204,
+            "changeTime": 1559767237204,
+            "contentHash": "7e3b47b6f015d41da2682d23c08c6bd410b8f4bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/components/SiteFooter.component",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/components/SiteFooter.component",
+            "isDirectory": false,
+            "size": 77,
+            "modifiedTime": 1559767237200,
+            "changeTime": 1559767237200,
+            "contentHash": "8c9f2b97bbfa52fdef76795bfea4a72ea95d3258",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/components/SiteFooter.component-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/components/SiteFooter.component-meta.xml",
+            "isDirectory": false,
+            "size": 426,
+            "modifiedTime": 1559767237196,
+            "changeTime": 1559767237196,
+            "contentHash": "4e0aeac555b55735b7c4433b9a76422a5ad57bcb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/components/SiteHeader.component",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/components/SiteHeader.component",
+            "isDirectory": false,
+            "size": 1214,
+            "modifiedTime": 1559767237200,
+            "changeTime": 1559767237200,
+            "contentHash": "0a710387c2669b94a3224b8016f37d0a3fc20948",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/components/SiteHeader.component-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/components/SiteHeader.component-meta.xml",
+            "isDirectory": false,
+            "size": 426,
+            "modifiedTime": 1559767237200,
+            "changeTime": 1559767237200,
+            "contentHash": "bb5713aecd8c0c8cc2ecb360fb007c736c76de63",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/components/SiteLogin.component",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/components/SiteLogin.component",
+            "isDirectory": false,
+            "size": 1254,
+            "modifiedTime": 1559767237204,
+            "changeTime": 1559767237204,
+            "contentHash": "bc708781ea43467adf9e0efda09caf0e4abc96ba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/components/SiteLogin.component-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/components/SiteLogin.component-meta.xml",
+            "isDirectory": false,
+            "size": 417,
+            "modifiedTime": 1559767237200,
+            "changeTime": 1559767237200,
+            "contentHash": "9217c95ffd47f9d03fa8c0cc4a1b3e07fc0ac02c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/components/SitePoweredBy.component",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/components/SitePoweredBy.component",
+            "isDirectory": false,
+            "size": 532,
+            "modifiedTime": 1559767237200,
+            "changeTime": 1559767237200,
+            "contentHash": "353f26acfff5ff089406bc9b6029fec483f8360f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/components/SitePoweredBy.component-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/components/SitePoweredBy.component-meta.xml",
+            "isDirectory": false,
+            "size": 433,
+            "modifiedTime": 1559767237200,
+            "changeTime": 1559767237200,
+            "contentHash": "bcaa4e1ff550472ed945359bcfa64b8fe8e2f685",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/featureParameters",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/featureParameters",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767255716,
+            "changeTime": 1559767255716,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237264,
+            "changeTime": 1559767237264,
+            "contentHash": "bc687073c31e5b2ce311bc669f0d006eee719525",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/flexipages/LightningSalesConsole_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/flexipages/LightningSalesConsole_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 727,
+            "modifiedTime": 1559767237264,
+            "changeTime": 1559767237264,
+            "contentHash": "5b43cf4d8b0c83ea7deb78cde4c24f9117688fa5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/flexipages/LightningService_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/flexipages/LightningService_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 731,
+            "modifiedTime": 1559767237264,
+            "changeTime": 1559767237264,
+            "contentHash": "141f81472302a681ddec77a7fae19cc11b6a87a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/flexipages/Opportunity_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/flexipages/Opportunity_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 5346,
+            "modifiedTime": 1559767237260,
+            "changeTime": 1559767237260,
+            "contentHash": "baef37ac44e6ed3564c730aab65914972d89c200",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/groups",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/groups",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237228,
+            "changeTime": 1559767237228,
+            "contentHash": "9dc4e09363bb159098ddbf992f0de8307bdfec06",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/groups/Data_Dwell_Sales_Enablement.group-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/groups/Data_Dwell_Sales_Enablement.group-meta.xml",
+            "isDirectory": false,
+            "size": 197,
+            "modifiedTime": 1559767237228,
+            "changeTime": 1559767237228,
+            "contentHash": "4b6913a274bd8ab5f1239ede54717abd934ca153",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/lwc",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559765092837,
+            "changeTime": 1559765092837,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237240,
+            "changeTime": 1559767237240,
+            "contentHash": "ff325cb88fd1a08d7f1faf3e0187331c07064241",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "b6bfaa0d3a9eb2b2e11ef8395c990ec241662908",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
+            "isDirectory": false,
+            "size": 3066,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "fe3da3aa6cd2ae300101b96a55f5d42b291dc84c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fieldSets",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fieldSets",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "2555cf8d384c0aeec811409970e1bef615745a0c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fieldSets/datadwell__SalesAthleteCriteria.fieldSet-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fieldSets/datadwell__SalesAthleteCriteria.fieldSet-meta.xml",
+            "isDirectory": false,
+            "size": 600,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "ae1c67c2f8000000acda459ec79006c67c02f5e3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "332f86157b709ac989b1dc3f06a5ff94436558a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/AccountId.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "size": 263,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "ddead8196b7c0d8801a4c4bed2df0350671bfdc9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Amount.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Amount.field-meta.xml",
+            "isDirectory": false,
+            "size": 235,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "6b047905b443336cbd4b456b7a9b5710a8ef1322",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/CampaignId.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/CampaignId.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "191443ccf3cbba59279c7d49bf01214ea1a7e126",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/CloseDate.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/CloseDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 238,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "f221ca916214fcd9dbc1aa44904a6238859fa72c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/ContractId.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/ContractId.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "fc50b01b7ef9c40a27e44c3dc5d045d44480ba29",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/CurrentGenerators__c.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/CurrentGenerators__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 430,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "5a3dff7c9dc1dac3fe30c57d612259cf9f5aae3f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/DeliveryInstallationStatus__c.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/DeliveryInstallationStatus__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1044,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "b0d65bb3dcd57f55c816205a36db507bf8ebb5f2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "369f2d2dd9aa349900ec2a07e00fb7162b29fd09",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/ExpectedRevenue.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/ExpectedRevenue.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "283266ae9750053442bbc4eb4bd7f2c127e2ca06",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/IqScore.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/IqScore.field-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "ef86ca1575d71d6f8bb7c0163b84d0ef2d85ff0b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/IsPrivate.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/IsPrivate.field-meta.xml",
+            "isDirectory": false,
+            "size": 239,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "d0db908a59ce86178ed22e786980e8dcadb4c0e3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/LeadSource.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 266,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "ac5c4a94f4c5f9bd38d5c1d14aae2b54a9c5a81c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/MainCompetitors__c.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/MainCompetitors__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 426,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "218f5d5794de24bc73d74f266d543aca0a402b99",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Name.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "9c1be91bb523a012d59b8f4703f7a106d6428159",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/NextStep.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/NextStep.field-meta.xml",
+            "isDirectory": false,
+            "size": 238,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "8344a7bca864fc59bcc6597ccb36f9308e2ad65c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/OrderNumber__c.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/OrderNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "b4b96527ba58e8b492c3eed6dcf6cb7829b04a15",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/OwnerId.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "3fcc4be59ff087e527b687e721d8811e92c33e62",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Pricebook2Id.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Pricebook2Id.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "6073cd45908669eb1d6de72919f5d8c1f5d2f5cf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Probability.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Probability.field-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "707fdee35ab4b79a69c635443db77c70948a5910",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/StageName.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/StageName.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "cc69df14543885c7f3b123dc0ca9bf36d5cccae3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/TotalOpportunityQuantity.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/TotalOpportunityQuantity.field-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "b32b34c36eedceeb68877bf7527e493bee0eb943",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/TrackingNumber__c.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/TrackingNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 421,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "3280d07c1c635a7c83472e497e1b7ac226e4bcbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Type.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "2ccbfa9b889937d3f267d8553b18ee9d565af57f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/datadwell__Engagement_Score__c.field-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/fields/datadwell__Engagement_Score__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 499,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "8d1286f630d05899a0574d153496eabf59a44932",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "f60a4eb7b764748f6a0390881503a840a78a49fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/AllOpportunities.listView-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/AllOpportunities.listView-meta.xml",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "20f2a33f2464528dc6c5c089c8a952060bc0f54a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/ClosingNextMonth.listView-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/ClosingNextMonth.listView-meta.xml",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "f0383c008c94343de15cdc98da97742742b5caf9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/ClosingThisMonth.listView-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/ClosingThisMonth.listView-meta.xml",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "1794a9b10f43de449b63303697f638fc8e871fb8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/Default_Opportunity_Pipeline.listView-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/Default_Opportunity_Pipeline.listView-meta.xml",
+            "isDirectory": false,
+            "size": 400,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "8685d5a6347d01b4786db45bf82afc9b02473c20",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/MyOpportunities.listView-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/MyOpportunities.listView-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "68e0b304bb7dee4933c9a05817ce5af6e6085adb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/NewLastWeek.listView-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/NewLastWeek.listView-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "eab2c4b78f33f28122b715f48458892470634d2e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/NewThisWeek.listView-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "0a5de62c34900aaeb2787bb16111ddd9675bf864",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/Private.listView-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/Private.listView-meta.xml",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "9f7404ae7b2b45b63c95013c01d31e0bb414575c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/Won.listView-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/listViews/Won.listView-meta.xml",
+            "isDirectory": false,
+            "size": 469,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "52f9faa8c4cba8db533331ed2908069a0d47cbf8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/webLinks",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/webLinks",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "0b99d9b421457b7c5658f12fe12433012c3a38f9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/objects/Opportunity/webLinks/DeliveryStatus.webLink-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/objects/Opportunity/webLinks/DeliveryStatus.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 833,
+            "modifiedTime": 1559767237244,
+            "changeTime": 1559767237244,
+            "contentHash": "2b32aaaf0f142a5b7e7c4ca3497b7b4fc07e3866",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237224,
+            "changeTime": 1559767237224,
+            "contentHash": "d425bcdd02bbdcfb5f5b929153961f7ec191fa90",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/AnswersHome.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/AnswersHome.page",
+            "isDirectory": false,
+            "size": 61,
+            "modifiedTime": 1559767237224,
+            "changeTime": 1559767237224,
+            "contentHash": "a82a578935f0381f7ce194fc36f422775d6ab707",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/AnswersHome.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/AnswersHome.page-meta.xml",
+            "isDirectory": false,
+            "size": 535,
+            "modifiedTime": 1559767237224,
+            "changeTime": 1559767237224,
+            "contentHash": "b4e48cbf5309ba8c7224c15ccc98086e0bca7c9c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/BandwidthExceeded.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/BandwidthExceeded.page",
+            "isDirectory": false,
+            "size": 746,
+            "modifiedTime": 1559767237208,
+            "changeTime": 1559767237208,
+            "contentHash": "af8b65b80f92aa12ee84f138858b6b1253dde9f8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/BandwidthExceeded.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/BandwidthExceeded.page-meta.xml",
+            "isDirectory": false,
+            "size": 533,
+            "modifiedTime": 1559767237208,
+            "changeTime": 1559767237208,
+            "contentHash": "5ec41b5672e9583e7b4f3a9885eb57a2bd7c4163",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/ChangePassword.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/ChangePassword.page",
+            "isDirectory": false,
+            "size": 2253,
+            "modifiedTime": 1559767237216,
+            "changeTime": 1559767237216,
+            "contentHash": "ef99757f7f329769d4297658a07069ba6479259a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/ChangePassword.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/ChangePassword.page-meta.xml",
+            "isDirectory": false,
+            "size": 529,
+            "modifiedTime": 1559767237216,
+            "changeTime": 1559767237216,
+            "contentHash": "99a617a5de8d72e4fc3329a2000208410277a2a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/Exception.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/Exception.page",
+            "isDirectory": false,
+            "size": 1716,
+            "modifiedTime": 1559767237212,
+            "changeTime": 1559767237212,
+            "contentHash": "830bc42abae82f60204235bc55bb4e817329b8db",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/Exception.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/Exception.page-meta.xml",
+            "isDirectory": false,
+            "size": 542,
+            "modifiedTime": 1559767237212,
+            "changeTime": 1559767237212,
+            "contentHash": "22d5e3671289cbd385f6f2fcf52bbf3346a4ab24",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/FileNotFound.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/FileNotFound.page",
+            "isDirectory": false,
+            "size": 1667,
+            "modifiedTime": 1559767237212,
+            "changeTime": 1559767237212,
+            "contentHash": "5e6c03f7313422001a3df2c492db52fabdc10212",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/FileNotFound.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/FileNotFound.page-meta.xml",
+            "isDirectory": false,
+            "size": 533,
+            "modifiedTime": 1559767237208,
+            "changeTime": 1559767237208,
+            "contentHash": "c31d4cbf1464eebd59e995e91c1566d0d658c574",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/ForgotPassword.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/ForgotPassword.page",
+            "isDirectory": false,
+            "size": 1734,
+            "modifiedTime": 1559767237216,
+            "changeTime": 1559767237216,
+            "contentHash": "d08010b952d7bc3b249a76a840810bef066c56e8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/ForgotPassword.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/ForgotPassword.page-meta.xml",
+            "isDirectory": false,
+            "size": 542,
+            "modifiedTime": 1559767237216,
+            "changeTime": 1559767237216,
+            "contentHash": "b659fad3e52bc5e714f6eaca8e81b3060fd07629",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/ForgotPasswordConfirm.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/ForgotPasswordConfirm.page",
+            "isDirectory": false,
+            "size": 1315,
+            "modifiedTime": 1559767237220,
+            "changeTime": 1559767237220,
+            "contentHash": "b36e48b39e4d3b8b31a82c9c5eee2ffffc194ee3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/ForgotPasswordConfirm.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/ForgotPasswordConfirm.page-meta.xml",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1559767237220,
+            "changeTime": 1559767237220,
+            "contentHash": "e374c4cb7d5d44a72a4932f9c56c58ecd189b679",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/IdeasHome.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/IdeasHome.page",
+            "isDirectory": false,
+            "size": 56,
+            "modifiedTime": 1559767237224,
+            "changeTime": 1559767237224,
+            "contentHash": "321994aef1dc6905bd2f9ea1275cef640575796a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/IdeasHome.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/IdeasHome.page-meta.xml",
+            "isDirectory": false,
+            "size": 531,
+            "modifiedTime": 1559767237224,
+            "changeTime": 1559767237224,
+            "contentHash": "a98712ef461ef498c78fc15a65f8dcf7b565270a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/InMaintenance.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/InMaintenance.page",
+            "isDirectory": false,
+            "size": 854,
+            "modifiedTime": 1559767237212,
+            "changeTime": 1559767237212,
+            "contentHash": "660848468f184da3bdb013f9fdf96c6104ec33d6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/InMaintenance.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/InMaintenance.page-meta.xml",
+            "isDirectory": false,
+            "size": 529,
+            "modifiedTime": 1559767237212,
+            "changeTime": 1559767237212,
+            "contentHash": "6f40206fc6cc53e12ae0e0dca4d6554e9574bc25",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/MyProfilePage.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/MyProfilePage.page",
+            "isDirectory": false,
+            "size": 5352,
+            "modifiedTime": 1559767237204,
+            "changeTime": 1559767237204,
+            "contentHash": "620edf5c2c314699cb5acd8a29ee2897a7f4be9c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/MyProfilePage.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/MyProfilePage.page-meta.xml",
+            "isDirectory": false,
+            "size": 523,
+            "modifiedTime": 1559767237204,
+            "changeTime": 1559767237204,
+            "contentHash": "8a99d3abd10ed475e92593c240a274324fc1b8bf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/SiteLogin.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/SiteLogin.page",
+            "isDirectory": false,
+            "size": 1178,
+            "modifiedTime": 1559767237220,
+            "changeTime": 1559767237220,
+            "contentHash": "cbc0628ee0ca131ce53c251ae3221ba5048f2020",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/SiteLogin.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/SiteLogin.page-meta.xml",
+            "isDirectory": false,
+            "size": 514,
+            "modifiedTime": 1559767237220,
+            "changeTime": 1559767237220,
+            "contentHash": "02c54add1b7fa691bcac4ce19d576634a8e7a67c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/SiteRegister.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/SiteRegister.page",
+            "isDirectory": false,
+            "size": 2535,
+            "modifiedTime": 1559767237216,
+            "changeTime": 1559767237216,
+            "contentHash": "41ff51ebecfc21b5b03567851586edbc5fefc6bf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/SiteRegister.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/SiteRegister.page-meta.xml",
+            "isDirectory": false,
+            "size": 529,
+            "modifiedTime": 1559767237216,
+            "changeTime": 1559767237216,
+            "contentHash": "5cc148f8fa3fe51daa30fd401874be9f734e6d28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/SiteRegisterConfirm.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/SiteRegisterConfirm.page",
+            "isDirectory": false,
+            "size": 1336,
+            "modifiedTime": 1559767237204,
+            "changeTime": 1559767237204,
+            "contentHash": "e1c4950e6f20b5744e83b77652be25196945a53b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/SiteRegisterConfirm.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/SiteRegisterConfirm.page-meta.xml",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1559767237204,
+            "changeTime": 1559767237204,
+            "contentHash": "3fd0c9eab8021c9b868a384a0947b2a40058d09e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/SiteTemplate.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/SiteTemplate.page",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1559767237208,
+            "changeTime": 1559767237208,
+            "contentHash": "0795cba97d90e8e6f4511bdc6845b4f6ba593a49",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/SiteTemplate.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/SiteTemplate.page-meta.xml",
+            "isDirectory": false,
+            "size": 532,
+            "modifiedTime": 1559767237208,
+            "changeTime": 1559767237208,
+            "contentHash": "81e09820e59b2799bc457f305bfbfa66c10e8f79",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/StdExceptionTemplate.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/StdExceptionTemplate.page",
+            "isDirectory": false,
+            "size": 918,
+            "modifiedTime": 1559767237208,
+            "changeTime": 1559767237208,
+            "contentHash": "ee21ef14d08dc898cc2f7c14b009b44e39843047",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/StdExceptionTemplate.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/StdExceptionTemplate.page-meta.xml",
+            "isDirectory": false,
+            "size": 554,
+            "modifiedTime": 1559767237208,
+            "changeTime": 1559767237208,
+            "contentHash": "816161e3bbde3287138a89e8aabc74e82436cdbc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/Unauthorized.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/Unauthorized.page",
+            "isDirectory": false,
+            "size": 1728,
+            "modifiedTime": 1559767237224,
+            "changeTime": 1559767237224,
+            "contentHash": "e2d900a0e0685865732acee0c84539a31cb8638e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/Unauthorized.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/Unauthorized.page-meta.xml",
+            "isDirectory": false,
+            "size": 536,
+            "modifiedTime": 1559767237224,
+            "changeTime": 1559767237224,
+            "contentHash": "0bab30866bf85d6996f272b414e160521b16dafc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/UnderConstruction.page",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/UnderConstruction.page",
+            "isDirectory": false,
+            "size": 819,
+            "modifiedTime": 1559767237220,
+            "changeTime": 1559767237220,
+            "contentHash": "7e44e8eff2115cba3f9494ac0ebac64ba628e919",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/pages/UnderConstruction.page-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/pages/UnderConstruction.page-meta.xml",
+            "isDirectory": false,
+            "size": 537,
+            "modifiedTime": 1559767237220,
+            "changeTime": 1559767237220,
+            "contentHash": "f548ca4640677562dd0b0037cf210d852b61a4c3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/profiles",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237292,
+            "changeTime": 1559767237292,
+            "contentHash": "d96f9289aea85ad81920c68ca46906f0831af658",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 25267,
+            "modifiedTime": 1559767237288,
+            "changeTime": 1559767237288,
+            "contentHash": "91ef3d458ddcaf04eb4da3585169fc7ed1ba01d5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/profiles/Data Dwell Profile.profile-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/profiles/Data Dwell Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6548,
+            "modifiedTime": 1559767237292,
+            "changeTime": 1559767237292,
+            "contentHash": "aad97154769a3801b0664db25fd8666b6a293755",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/sites",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/sites",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237296,
+            "changeTime": 1559767237296,
+            "contentHash": "07cc48e2b55a59190d341e50eec7486e0c972405",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/sites/Data_Dwell.site-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/sites/Data_Dwell.site-meta.xml",
+            "isDirectory": false,
+            "size": 1513,
+            "modifiedTime": 1559767237296,
+            "changeTime": 1559767237296,
+            "contentHash": "a1b4500edf51ee91e7965cccb6e68a67bb188509",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "94b65d41e40870e77f72cba72966f3bed8bd0800",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "9f4bb3dd78853fee52f25b5a18949a8603beab6b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/SiteStyles.css",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/SiteStyles.css",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "acbb17c79c96e91d9c04ae4c847b7241ccde01de",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "ca36f65b7f8888bd595c26bba98c091a986284ab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/clock.png",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/clock.png",
+            "isDirectory": false,
+            "size": 4681,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "6f2f8d42808b3c04c1a2e7d9b6ba37ea7f862ba7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/construction.png",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/construction.png",
+            "isDirectory": false,
+            "size": 15051,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "322851d6d1ef8caf107caf445de1b6c05caef6bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/force_logo.png",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/force_logo.png",
+            "isDirectory": false,
+            "size": 1728,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "40bb27e6354b88edcd694651e69ac817cc859541",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/maintenance.png",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/maintenance.png",
+            "isDirectory": false,
+            "size": 12247,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "3eae4032e6c554a7c44ec277b10f9fa92de2d6cf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/poweredby.png",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/poweredby.png",
+            "isDirectory": false,
+            "size": 984,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "a29fa078df1fc18309a8fa02d5941312e4e41344",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/tools.png",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/tools.png",
+            "isDirectory": false,
+            "size": 2136,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "06ee26032a159736878decef296cba66ec8d8e25",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/unauthorized.png",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/unauthorized.png",
+            "isDirectory": false,
+            "size": 2076,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "74dc855d72862a1f62d1c9ec0535f43a229fb1a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/warning.png",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples/img/warning.png",
+            "isDirectory": false,
+            "size": 1767,
+            "modifiedTime": 1559767237192,
+            "changeTime": 1559767237192,
+            "contentHash": "90ef2806b042926ca428c19654b9306555b53429",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/staticresources/SiteSamples.resource-meta.xml",
+        {
+            "sourcePath": "/var/projects/demo/force-app/main/default/staticresources/SiteSamples.resource-meta.xml",
+            "isDirectory": false,
+            "size": 279,
+            "modifiedTime": 1559767237188,
+            "changeTime": 1559767237188,
+            "contentHash": "d631b8484f7cf65ecbe56127a65e4ec278d8657d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo",
+        {
+            "sourcePath": "/var/projects/demo",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1559765429121,
+            "changeTime": 1559765429121,
+            "contentHash": "1e9dac22358612c5343c2130c8a46989155e8b36",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

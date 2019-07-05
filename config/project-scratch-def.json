@@ -1,0 +1,6 @@
+{
+  "orgName": "Data Dwell - Sales Demo",
+  "edition": "Developer",
+  "hasSampleData": "true",
+  "features": ["CPQ", "Knowledge", "LightningServiceConsole", "LightningSalesConsole", "ServiceCloud", "Sites"]
+}

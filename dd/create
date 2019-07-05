@@ -1,0 +1,11 @@
+#!/bin/bash
+
+SN=$1
+
+sfdx force:org:create -f config/project-scratch-def.json -d 30 -a $SN && \
+sfdx force:package:install --package=04t4I000000Gbj2 -r -w 15 -u $SN && \
+sfdx force:user:permset:assign --permsetname Sales_Athlete_Admin --targetusername $SN && \
+sfdx force:source:push -f -u $SN && \
+sfdx force:apex:execute -u $SN -f dd/postInstall.apex && \
+sfdx force:apex:execute -u $SN -f dd/postInstall2.apex && \
+sfdx force:org:open -u $SN

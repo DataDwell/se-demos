@@ -1,0 +1,122 @@
+[
+    [
+        "/var/projects/demo/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559764996002,
+            "changeTime": 1559764996002,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559764996002,
+            "changeTime": 1559764996002,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559765429121,
+            "changeTime": 1559765429121,
+            "contentHash": "87a8603786989f4225be5cf129624c66f0f18e77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559764996002,
+            "changeTime": 1559764996002,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/installedPackages",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app/main/default/installedPackages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559765127871,
+            "changeTime": 1559765429121,
+            "contentHash": "d25effffc81460823da6d1c8f8319ad1dea539d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/installedPackages/datadwell.installedPackage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app/main/default/installedPackages/datadwell.installedPackage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 256,
+            "modifiedTime": 1559765588199,
+            "changeTime": 1559765588199,
+            "contentHash": "0dec55d57e058664d1428f5f65f8bb0c86a4b267",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559765092837,
+            "changeTime": 1559765092837,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559765429121,
+            "changeTime": 1559765429121,
+            "contentHash": "1e9dac22358612c5343c2130c8a46989155e8b36",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

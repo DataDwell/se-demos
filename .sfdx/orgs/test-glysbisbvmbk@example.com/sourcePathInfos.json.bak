@@ -1,0 +1,92 @@
+[
+    [
+        "/var/projects/demo/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559764996002,
+            "changeTime": 1559764996002,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559764996002,
+            "changeTime": 1559764996002,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559765801365,
+            "changeTime": 1559765801365,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559764996002,
+            "changeTime": 1559764996002,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559765092837,
+            "changeTime": 1559765092837,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/var/projects/demo",
+        {
+            "state": "n",
+            "sourcePath": "/var/projects/demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1559765429121,
+            "changeTime": 1559765429121,
+            "contentHash": "1e9dac22358612c5343c2130c8a46989155e8b36",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
