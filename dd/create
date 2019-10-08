@@ -2,8 +2,9 @@
 
 SN=$1
 
+git pull
 sfdx force:org:create -f config/project-scratch-def.json -d 30 -a $SN && \
-sfdx force:package:install --package=04t4I000000Gbj2 -r -w 15 -u $SN && \
+sfdx force:package:install --package=04t4I000000kv0R -r -w 15 -u $SN && \
 sfdx force:user:permset:assign --permsetname Sales_Athlete_Admin --targetusername $SN && \
 sfdx force:source:push -f -u $SN && \
 sfdx force:apex:execute -u $SN -f dd/postInstall.apex && \
